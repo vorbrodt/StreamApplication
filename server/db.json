@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "our title",
+      "description": "desc",
+      "id": 1
+    },
+    {
+      "title": "brand new stream",
+      "description": "very cool object",
+      "id": 2
+    },
+    {
+      "title": "testing with id",
+      "description": "would this work with getState",
+      "userId": "117315996619087088034",
+      "id": 3
+    },
+    {
+      "title": "changes made",
+      "description": "a lot of changes!!",
+      "id": 5
+    }
+  ]
+}
